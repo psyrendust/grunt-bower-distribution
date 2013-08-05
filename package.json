@@ -1,7 +1,7 @@
 {
   "name": "grunt-bower-distribute",
   "description": "Compress, minify, and copy Bower endpoints to a destination for distribution.",
-  "version": "0.1.0",
+  "version": "0.0.1-wip",
   "homepage": "https://github.com/psyrendust/grunt-bower-distribution",
   "author": {
     "name": "Larry Gordon",
